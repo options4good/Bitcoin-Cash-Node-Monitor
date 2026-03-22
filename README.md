@@ -2,7 +2,7 @@
 
 I am running my local BCH node for solo mining and thought I would create a script to monitor the node's activity and display various related data. This simple monitoring tool is perfect for BCH, BTC and other SHA256d algorithm nodes that use bitcoind, bitcoin-cli node files that are system installed. I hope I can contribute with this small project to the community and many of you will enjoy my creation.
 
-<img width="1262" height="1293" alt="bchnodemonitor" src="https://github.com/user-attachments/assets/027b908f-fc6d-44e6-a61b-2334738f4267" />
+<img width="634" height="669" alt="BCHnodemonitorV114" src="https://github.com/user-attachments/assets/7ba508cb-7180-40f5-8f67-aee62aaa1aad" />
 
 <h2>What are the current features?</h2>
 
